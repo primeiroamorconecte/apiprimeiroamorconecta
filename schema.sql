@@ -1,0 +1,1 @@
+-- SQL de criação de tabelas para eventos, sermões, avisos, membros etc.
